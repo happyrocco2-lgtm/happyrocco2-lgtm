@@ -14,5 +14,3 @@
 <p align="center"><em>Pray to the skies or curse the pit — your voice carries to the same throne.</em></p>
 
 
-**(https://cipher-split.vercel.app/)**
-
