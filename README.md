@@ -7,10 +7,6 @@
 
 <p align="center"><em>The High Heavens &amp; The Low Hell</em></p>
 
-<p align="center">
-  The Eclipse Unbroken &nbsp;·&nbsp; Keeper of the Balance &nbsp;·&nbsp; Void-Born
-</p>
-
 <p align="center"><em>Pray to the skies or curse the pit — your voice carries to the same throne.</em></p>
 
 
