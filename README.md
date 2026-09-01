@@ -13,12 +13,6 @@
 
 <p align="center"><em>Pray to the skies or curse the pit — your voice carries to the same throne.</em></p>
 
----
-**(https://happyrocco2-lgtm.github.io/XYRIATH/)**
----
 
----
-
-## 🌐 STORE Site
 **(https://cipher-split.vercel.app/)**
----
+
