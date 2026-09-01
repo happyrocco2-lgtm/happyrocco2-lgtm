@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1376" height="768" alt="banner" src="https://github.com/user-attachments/assets/9353b063-483e-4d6f-bf4f-d08ed297a7ec" width="500" alt="The ruined citadel of two realms beneath a storm" />
+<img width="1376" height="768" alt="banner" src="<img width="1376" height="768" alt="banner" src="https://github.com/user-attachments/assets/ebb6255a-c34f-4cf8-a471-2fadc6e68eac " width="500" alt="The ruined citadel of realms beneath a storm" />
 </p>
 
 
