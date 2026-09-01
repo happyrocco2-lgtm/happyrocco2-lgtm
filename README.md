@@ -15,7 +15,12 @@
 
 ---
 
-## 🌐 Live Site
-**[Visit XYRIATH Profile](https://happyrocco2-lgtm.github.io/XYRIATH/)**
-**[Visit SECURITY+](https://cipher-split.vercel.app/)**
+## 🌐 PROFILE Site
+**[MY KINGDOM](https://happyrocco2-lgtm.github.io/XYRIATH/)**
+---
+
+---
+
+## 🌐 STORE Site
+**[CIPHER SPLIT](https://cipher-split.vercel.app/)**
 ---
