@@ -15,9 +15,9 @@
 
 
 <p align="center"><em>
-> Tyger Tyger, burning bright,
-> In the forests of the night;
-> What immortal hand or eye,
-> Could frame thy fearful symmetry?
+ Tyger Tyger, burning bright,
+ In the forests of the night;
+ What immortal hand or eye,
+ Could frame thy fearful symmetry?</em></p>
 
-— William Blake</em>, <em>The Tyger</em>, Songs of Experience, 1794</p>
+<p align="center"><em>— William Blake</em>, <em>The Tyger</em>, Songs of Experience, 1794</p>
