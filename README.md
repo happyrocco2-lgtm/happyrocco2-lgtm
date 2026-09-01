@@ -13,11 +13,11 @@
 
 <p align="center"><em>Pray to the skies or curse the pit — your voice carries to the same throne.</em></p>
 
-
+---
 <p align="center"><em>
- Tyger Tyger, burning bright,
- In the forests of the night;
- What immortal hand or eye,
- Could frame thy fearful symmetry?</em></p>
-
+ Tyger Tyger, burning bright,</em></p>
+ <p align="center"><em>In the forests of the night;</em></p>
+<p align="center"><em> What immortal hand or eye,</em></p>
+<p align="center"><em> Could frame thy fearful symmetry?</em></p>
+---
 <p align="center"><em>— William Blake</em>, <em>The Tyger</em>, Songs of Experience, 1794</p>
